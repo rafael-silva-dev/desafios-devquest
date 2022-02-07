@@ -2,7 +2,7 @@
     margin: 20px;
 }
 
-table, th, td {
+.produtos-moda th, td, .produtos-casa th, td {
     border-collapse: collapse;
     border: 1px solid #FFFFFF;
     padding: 10px;
