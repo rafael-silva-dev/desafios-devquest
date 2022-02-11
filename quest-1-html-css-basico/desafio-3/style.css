@@ -1,13 +1,12 @@
-* {
-    margin-bottom: 40px;
+p {
+    margin: 40px;
+    padding: 20px;
 }
 
 .padrao {
     background-color: #F5F5F5;
-    padding: 20px;
 }
 
 .destacado {
     background-color: #F0CCE2;
-    padding: 20px;
 }
